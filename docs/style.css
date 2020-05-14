@@ -41,6 +41,12 @@ body {
   font-family: courier ;
 }
 
+@media only screen and (max-width: 1000px) {
+  body {
+    width: 90% ;
+  }
+}
+
 img {
   width: 35% ;
   height: auto ;
