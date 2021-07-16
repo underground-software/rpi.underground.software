@@ -37,14 +37,8 @@ body {
   padding-top: 10px;
   display: block ;
   margin: auto ;
-  width: 50% ;
+  width: 40% ;
   font-family: courier ;
-}
-
-@media only screen and (max-width: 1000px) {
-  body {
-    width: 90% ;
-  }
 }
 
 img {
